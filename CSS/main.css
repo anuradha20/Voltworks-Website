@@ -175,35 +175,53 @@ nav ul li ul li a {
     max-width: 1000px;
     margin: 0 auto;
 }
-.slide1 {
-    display: none;
-    position: absolute;
-    top: 0;
-    right: 0;
-    background: green;
-    height: 70px;
-    width: 70px;
-}
-.slide2{
-    max-width: 1000px;
+.block1{
+    max-width: 100;
     margin: 0 auto;
-    background: violet;
-    height: 70px;
-    width: 70px;
+    background: rgba(32, 102, 73, 0.812);
+    height: 750px;
+    width: 100%;
+    color:white;
 }
-.slide3{
-    max-width: 1000px;
+.block2{
+    max-width: 100;
     margin: 0 auto;
-    background: blue;
-    height: 70px;
-    width: 70px;
+    background: rgba(180, 127, 4, 0.773);
+    height: 750px;
+    width: 100%;
+    color:white;
 }
-.contactslide{
-    max-width: 1000px;
+.block3{
+    max-width: 100;
     margin: 0 auto;
-    background: black;
-    height: 70px;
-    width: 70px;
+    background: rgba(5, 82, 183, 0.768);
+    height: 750px;
+    width: 100%;
+    color:white;
+}
+.main_block{
+    max-width: 100;
+    margin: 0 auto;
+    background: rgb(0, 0, 0);
+    height: 750px;
+    width: 100%;
+    color:white;
+}
+.fdb-block{
+    max-width: 100;
+    margin: 0 auto;
+    background: rgb(0, 0, 0);
+    height: 500px;
+    width: 100%;
+    color:white;
+}
+.foot{
+    max-width: 50;
+    margin: 0 auto;
+    background: rgba(16, 16, 16, 0.858);
+    height: 200px;
+    width: 100%;
+    color: white;
 }
 .brand {
     position: absolute;
@@ -253,16 +271,6 @@ nav ul li ul li a {
     border-radius: 50%;
   }
   
-
-
-
-
-
-
-
-
-
-
 
 
 
