@@ -179,7 +179,7 @@ nav ul li ul li a {
 .block1{
     max-width: 100;
     margin: 0 auto;
-    background: rgba(32, 102, 73, 0.812);
+    background: rgba(white);
     height: 750px;
     width: 100%;
     color:white;
@@ -187,7 +187,7 @@ nav ul li ul li a {
 .block2{
     max-width: 100;
     margin: 0 auto;
-    background: rgba(180, 127, 4, 0.773);
+    background: rgba(black);
     height: 750px;
     width: 100%;
     color:white;
@@ -195,7 +195,7 @@ nav ul li ul li a {
 .block3{
     max-width: 100;
     margin: 0 auto;
-    background: rgba(5, 82, 183, 0.768);
+    background: rgba(white);
     height: 750px;
     width: 100%;
     color:white;
