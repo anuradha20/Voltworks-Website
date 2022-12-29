@@ -237,12 +237,13 @@ nav ul li ul li a {
     line-height: 70px;
     text-transform: uppercase;
     font-size: 1.4em;
+
 }
 .brand img{
     max-height: 40px;
 }
 .brand a, .brand a:visited {
-    color: #463f3f;
+    color: #000000;
     text-decoration: none;
 }
 .navigation {
