@@ -13,7 +13,6 @@
 i {
     /* use !important to prevent issues with browser extensions that change fonts */
     font-family: 'hall5' !important;
-    speak: none;
     font-style: normal;
     font-weight: normal;
     font-variant: normal;
@@ -213,7 +212,7 @@ nav ul li ul li a {
     max-width: 100;
     margin: 0 auto;
     background: rgb(0, 0, 0);
-    height: 500px;
+    height: 600px;
     width: 100%;
     color:white;
 }
@@ -227,7 +226,7 @@ nav ul li ul li a {
     max-width: 50;
     margin: 0 auto;
     background: rgba(16, 16, 16, 0.858);
-    height: 200px;
+    height: 100px;
     width: 100%;
     color: white;
 }
